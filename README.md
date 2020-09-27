@@ -1,10 +1,8 @@
-# NL4DV
+# NL4DV-Quda
 
-**NL4DV** stands for **N**atural **L**anguage toolkit **for** **D**ata **V**isualization. It takes a **natural language query** about a given **dataset** as input and outputs a **structured JSON object** containing:
-* Data attributes, 
-* Analytic tasks, and
-* Visualizations (Vega-Lite specifications)
+**NL4DV-Quda** is a refined version of **NL4DV** where the task inference module is replaced by a neural network trained on Quda.
 
+As a result, NL4DV-Quda is more robust in task classification and extends NL4DV to a broader range of usage scenarios.
 
 ## Use ##
 - Download the jar packages
