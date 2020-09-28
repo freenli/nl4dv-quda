@@ -1,6 +1,6 @@
 # NL4DV-Quda
 
-**NL4DV-Quda** is a refined version of **NL4DV** where the task inference module is replaced by a neural network trained on Quda.
+**NL4DV-Quda** is a refined version of **NL4DV** (https://nl4dv.github.io/nl4dv/) where the task inference module is replaced by a neural network trained on Quda.
 
 As a result, NL4DV-Quda is more robust in task classification and extends NL4DV to a broader range of usage scenarios.
 
